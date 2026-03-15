@@ -1,0 +1,7 @@
+{
+  "name": "tpots/upcoming-events",
+  "title": "Upcoming Events",
+  "category": "widgets",
+  "editorScript": "file:./block.js",
+  "render": "file:./render.php"
+}
